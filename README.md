@@ -6,5 +6,5 @@ Classifies each region as Cancerous / Non-Cancerous using:
 Shape properties (area, eccentricity).
 A trained CNN model (example included).
 
-Green contours : Non-cancerous regions.
-Red contours : Cancerous regions.
+#Green contours : Non-cancerous regions.
+#Red contours : Cancerous regions.
